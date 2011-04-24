@@ -1,4 +1,6 @@
-LLL : Low-Level-Lush is a combination of Lush2.0.1 and LLVM2.8, in order to bring out the best in both.
+LLLL : Low-Level-Lush with Lisp.  Low-Level-Lush was a combination of Lush2.0.1 and LLVM2.8, in order to bring out the best in both.
+
+And then, because I really needed threaded garbage collection, I added Clozure Common Lisp. (SBCL could also work here.) And so Low-Level-Lush-with-Lisp (LLLL) was born.
 
 Lush2.0.1 offers excellent programming environment for numerics, machine learning, plotting, GUI, an excellent class system and lovely interface to C code and producing C code for deployment.
 
@@ -6,7 +8,7 @@ Unfortunately Lush2.0.1 lacks the ability to construct closures.
 
 LLVM2.8 with the Clang C++ compiler offers the ability to codgen C/C++ fragments and execute them in a JIT interpretted environment.
 
-Together they offer a great interactive and production environment.
+Together they offer a great interactive and production environment. And, as above, Clozure adds threaded garbage collection.  Since all three are LGPL or LLGPL, this actually works.
 
 
 INSTALL, example:
