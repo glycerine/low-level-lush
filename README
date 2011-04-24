@@ -1,4 +1,4 @@
-LLL : Low-Level-Lush is a combination of Lush2.0.1 and LLVM2.9, in order to bring out the best in both.
+LLL : Low-Level-Lush is a combination of Lush2.0.1 and LLVM2.8, in order to bring out the best in both.
 
 Lush2.0.1 offers excellent programming environment for numerics, machine learning, plotting, GUI, an excellent class system and lovely interface to C code and producing C code for deployment.
 
