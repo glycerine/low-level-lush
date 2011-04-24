@@ -4,6 +4,6 @@ Lush2.0.1 offers excellent programming environment for numerics, machine learnin
 
 Unfortunately Lush2.0.1 lacks the ability to construct closures. 
 
-LLVM2.9 with the Clang C++ compiler offers the ability to codgen C/C++ fragments and execute them in a JIT interpretted environment.
+LLVM2.8 with the Clang C++ compiler offers the ability to codgen C/C++ fragments and execute them in a JIT interpretted environment.
 
 Together they offer a great interactive and production environment.
