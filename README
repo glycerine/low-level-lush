@@ -1,6 +1,6 @@
-LLLL : Low-Level-Lush with Lisp.  Low-Level-Lush was a combination of Lush2.0.1 and LLVM2.8, in order to bring out the best in both.
+(LLL) : Low-Level-Lush with Lisp.  Low-Level-Lush was a combination of Lush2.0.1 and LLVM2.8, in order to bring out the best in both.
 
-And then, because I really needed threaded garbage collection, I added Clozure Common Lisp. (SBCL could also work here.) And so Low-Level-Lush-with-Lisp (LLLL) was born.
+And then, because I really needed threaded garbage collection, I added Clozure Common Lisp. (SBCL could also work here) And so Low-Level-Lush-with-Lisp was born, abbreviated (LLL) -- the Lisp is in the parenthesis, of course!
 
 Lush2.0.1 offers excellent programming environment for numerics, machine learning, plotting, GUI, an excellent class system and lovely interface to C code and producing C code for deployment.
 
