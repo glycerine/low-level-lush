@@ -7,3 +7,15 @@ Unfortunately Lush2.0.1 lacks the ability to construct closures.
 LLVM2.8 with the Clang C++ compiler offers the ability to codgen C/C++ fragments and execute them in a JIT interpretted environment.
 
 Together they offer a great interactive and production environment.
+
+
+INSTALL, example:
+
+mkdir install
+cd llvm-2.8
+./configure --prefix=`cd ..; pwd`/install --enable-optimized --disable-expensive-checks --enable-jit --enable-pic --enable-shared --enable-targets=x86_64 REQUIRES_RTTI=1
+make install
+
+cd lush2.0.1
+./configure --prefix=`cd ..; pwd`/install
+make install
