@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/publicsvn/openmcl/!svn/ver/14717/trunk/source/library
+END
+pty.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/library/pty.lisp
+END
+parse-ffi.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/library/parse-ffi.lisp
+END
+cover.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/publicsvn/openmcl/!svn/ver/14717/trunk/source/library/cover.lisp
+END
+intel-io.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/publicsvn/openmcl/!svn/ver/13378/trunk/source/library/intel-io.lisp
+END
+mac-file-io.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/library/mac-file-io.lisp
+END
+oprofile.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/publicsvn/openmcl/!svn/ver/9203/trunk/source/library/oprofile.txt
+END
+core-files.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/publicsvn/openmcl/!svn/ver/14680/trunk/source/library/core-files.lisp
+END
+openmcl-gtk-support.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/library/openmcl-gtk-support.lisp
+END
+darwinx8632-syscalls.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/library/darwinx8632-syscalls.lisp
+END
+serial-streams.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/publicsvn/openmcl/!svn/ver/13688/trunk/source/library/serial-streams.lisp
+END
+chud-metering.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/publicsvn/openmcl/!svn/ver/14628/trunk/source/library/chud-metering.lisp
+END
+leaks.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/publicsvn/openmcl/!svn/ver/14507/trunk/source/library/leaks.lisp
+END
+x8664-freebsd-syscalls.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/library/x8664-freebsd-syscalls.lisp
+END
+chud-metering.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/publicsvn/openmcl/!svn/ver/14634/trunk/source/library/chud-metering.txt
+END
+jp-encode.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/library/jp-encode.lisp
+END
+x8664-solaris-syscalls.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/library/x8664-solaris-syscalls.lisp
+END
+elf.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/publicsvn/openmcl/!svn/ver/14230/trunk/source/library/elf.lisp
+END
+loop.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/publicsvn/openmcl/!svn/ver/12463/trunk/source/library/loop.lisp
+END
+syscall.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/library/syscall.lisp
+END
+ppc-linux-syscalls.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/library/ppc-linux-syscalls.lisp
+END
+macptr-termination.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/library/macptr-termination.lisp
+END
+darwinppc-syscalls.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/library/darwinppc-syscalls.lisp
+END
+lispequ.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/publicsvn/openmcl/!svn/ver/14656/trunk/source/library/lispequ.lisp
+END
+x86-win64-syscalls.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/library/x86-win64-syscalls.lisp
+END
+splay-tree.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/library/splay-tree.lisp
+END
+x8664-linux-syscalls.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/library/x8664-linux-syscalls.lisp
+END
+pascal-strings.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/library/pascal-strings.lisp
+END
+mach-o-symbols.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/library/mach-o-symbols.lisp
+END
+dominance.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/publicsvn/openmcl/!svn/ver/13501/trunk/source/library/dominance.lisp
+END
+darwinx8664-syscalls.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/library/darwinx8664-syscalls.lisp
+END
+lisp-package.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/library/lisp-package.lisp
+END
+mach-o.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/library/mach-o.lisp
+END
+sequence-utils.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/publicsvn/openmcl/!svn/ver/9541/trunk/source/library/sequence-utils.lisp
+END
+sharp-comma.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/publicsvn/openmcl/!svn/ver/13066/trunk/source/library/sharp-comma.lisp
+END

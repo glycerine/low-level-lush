@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/publicsvn/openmcl/!svn/ver/14391/trunk/source/lisp-kernel/solarisx64
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/publicsvn/openmcl/!svn/ver/14391/trunk/source/lisp-kernel/solarisx64/Makefile
+END
+.gdbinit
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/publicsvn/openmcl/!svn/ver/10069/trunk/source/lisp-kernel/solarisx64/.gdbinit
+END

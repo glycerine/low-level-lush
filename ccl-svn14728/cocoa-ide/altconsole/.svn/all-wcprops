@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/publicsvn/openmcl/!svn/ver/12670/trunk/source/cocoa-ide/altconsole
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/publicsvn/openmcl/!svn/ver/11540/trunk/source/cocoa-ide/altconsole/main.m
+END
+version.plist
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/publicsvn/openmcl/!svn/ver/11540/trunk/source/cocoa-ide/altconsole/version.plist
+END
+AltConsoleDocumentController.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/publicsvn/openmcl/!svn/ver/12228/trunk/source/cocoa-ide/altconsole/AltConsoleDocumentController.m
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/publicsvn/openmcl/!svn/ver/11540/trunk/source/cocoa-ide/altconsole/Info.plist
+END
+AltConsoleDocument.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/publicsvn/openmcl/!svn/ver/12097/trunk/source/cocoa-ide/altconsole/AltConsoleDocument.h
+END
+AltConsoleDocumentController.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/publicsvn/openmcl/!svn/ver/11540/trunk/source/cocoa-ide/altconsole/AltConsoleDocumentController.h
+END
+AltConsoleDocument.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/publicsvn/openmcl/!svn/ver/12325/trunk/source/cocoa-ide/altconsole/AltConsoleDocument.m
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/publicsvn/openmcl/!svn/ver/12670/trunk/source/cocoa-ide/altconsole/Makefile
+END

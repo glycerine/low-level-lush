@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/publicsvn/openmcl/!svn/ver/13237/trunk/source/examples/jfli
+END
+jfli.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/publicsvn/openmcl/!svn/ver/11435/trunk/source/examples/jfli/jfli.jar
+END
+jni-lw.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/publicsvn/openmcl/!svn/ver/11439/trunk/source/examples/jfli/jni-lw.lisp
+END
+jni.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/publicsvn/openmcl/!svn/ver/11557/trunk/source/examples/jfli/jni.lisp
+END
+jfli-lw.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/publicsvn/openmcl/!svn/ver/13237/trunk/source/examples/jfli/jfli-lw.lisp
+END
+jfli.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/publicsvn/openmcl/!svn/ver/11453/trunk/source/examples/jfli/jfli.lisp
+END
+CPL.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/publicsvn/openmcl/!svn/ver/11436/trunk/source/examples/jfli/CPL.TXT
+END

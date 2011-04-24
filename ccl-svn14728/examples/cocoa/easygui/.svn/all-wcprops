@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/publicsvn/openmcl/!svn/ver/14298/trunk/source/examples/cocoa/easygui
+END
+rgb.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/publicsvn/openmcl/!svn/ver/11899/trunk/source/examples/cocoa/easygui/rgb.lisp
+END
+package.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/publicsvn/openmcl/!svn/ver/13742/trunk/source/examples/cocoa/easygui/package.lisp
+END
+views.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/publicsvn/openmcl/!svn/ver/14221/trunk/source/examples/cocoa/easygui/views.lisp
+END
+dialogs.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/publicsvn/openmcl/!svn/ver/14220/trunk/source/examples/cocoa/easygui/dialogs.lisp
+END
+action-targets.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/publicsvn/openmcl/!svn/ver/14223/trunk/source/examples/cocoa/easygui/action-targets.lisp
+END
+events.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/publicsvn/openmcl/!svn/ver/14218/trunk/source/examples/cocoa/easygui/events.lisp
+END
+system.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/publicsvn/openmcl/!svn/ver/14298/trunk/source/examples/cocoa/easygui/system.lisp
+END
+new-cocoa-bindings.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/publicsvn/openmcl/!svn/ver/14217/trunk/source/examples/cocoa/easygui/new-cocoa-bindings.lisp
+END

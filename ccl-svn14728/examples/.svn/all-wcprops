@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/publicsvn/openmcl/!svn/ver/14378/trunk/source/examples
+END
+mswin.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/publicsvn/openmcl/!svn/ver/11431/trunk/source/examples/mswin.lisp
+END
+README-OPENMCL-EXAMPLES
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/examples/README-OPENMCL-EXAMPLES
+END
+gtk2-clock.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/examples/gtk2-clock.lisp
+END
+webkit.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/publicsvn/openmcl/!svn/ver/11968/trunk/source/examples/webkit.lisp
+END
+gtk-minesweeper.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/publicsvn/openmcl/!svn/ver/12845/trunk/source/examples/gtk-minesweeper.lisp
+END
+opengl-ffi.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/publicsvn/openmcl/!svn/ver/13474/trunk/source/examples/opengl-ffi.lisp
+END
+cocoa-inspector.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/publicsvn/openmcl/!svn/ver/8495/trunk/source/examples/cocoa-inspector.lisp
+END

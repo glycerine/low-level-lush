@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/publicsvn/openmcl/!svn/ver/14213/trunk/source/scripts
+END
+ccl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/publicsvn/openmcl/!svn/ver/14119/trunk/source/scripts/ccl
+END
+http-to-svn
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/publicsvn/openmcl/!svn/ver/14213/trunk/source/scripts/http-to-svn
+END
+makedmg
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/publicsvn/openmcl/!svn/ver/12919/trunk/source/scripts/makedmg
+END
+svn-switch
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/scripts/svn-switch
+END
+http-to-ssh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/scripts/http-to-ssh
+END
+ccl64
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/publicsvn/openmcl/!svn/ver/13416/trunk/source/scripts/ccl64
+END

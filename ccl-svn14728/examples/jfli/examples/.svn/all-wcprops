@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/publicsvn/openmcl/!svn/ver/11573/trunk/source/examples/jfli/examples
+END
+swtdemo.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/publicsvn/openmcl/!svn/ver/11573/trunk/source/examples/jfli/examples/swtdemo.lisp
+END
+session.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/publicsvn/openmcl/!svn/ver/11436/trunk/source/examples/jfli/examples/session.lisp
+END

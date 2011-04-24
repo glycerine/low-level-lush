@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/publicsvn/openmcl/!svn/ver/14709/trunk/source/level-0/PPC
+END
+ppc-pred.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/level-0/PPC/ppc-pred.lisp
+END
+ppc-misc.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/publicsvn/openmcl/!svn/ver/14709/trunk/source/level-0/PPC/ppc-misc.lisp
+END
+ppc-numbers.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/publicsvn/openmcl/!svn/ver/13530/trunk/source/level-0/PPC/ppc-numbers.lisp
+END
+ppc-array.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/publicsvn/openmcl/!svn/ver/13919/trunk/source/level-0/PPC/ppc-array.lisp
+END
+ppc-def.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/level-0/PPC/ppc-def.lisp
+END
+ppc-clos.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/level-0/PPC/ppc-clos.lisp
+END
+ppc-utils.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/publicsvn/openmcl/!svn/ver/13279/trunk/source/level-0/PPC/ppc-utils.lisp
+END
+ppc-hash.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/level-0/PPC/ppc-hash.lisp
+END
+ppc-float.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/level-0/PPC/ppc-float.lisp
+END
+ppc-symbol.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/publicsvn/openmcl/!svn/ver/13745/trunk/source/level-0/PPC/ppc-symbol.lisp
+END
+ppc-io.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/level-0/PPC/ppc-io.lisp
+END

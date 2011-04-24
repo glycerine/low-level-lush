@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/publicsvn/openmcl/!svn/ver/13814/trunk/source/cocoa-ide/hemlock/unused/archive/wire
+END
+package.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/wire/package.lisp
+END
+remote.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/wire/remote.lisp
+END
+Notes
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/wire/Notes
+END
+port.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/wire/port.lisp
+END
+wire.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/wire/wire.lisp
+END

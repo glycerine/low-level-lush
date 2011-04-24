@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/publicsvn/openmcl/!svn/ver/14698/trunk/source/objc-bridge
+END
+objc-clos.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/publicsvn/openmcl/!svn/ver/14290/trunk/source/objc-bridge/objc-clos.lisp
+END
+bridge.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/publicsvn/openmcl/!svn/ver/14263/trunk/source/objc-bridge/bridge.lisp
+END
+name-translation.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/publicsvn/openmcl/!svn/ver/9592/trunk/source/objc-bridge/name-translation.lisp
+END
+objc-readtable.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/objc-bridge/objc-readtable.lisp
+END
+objc-runtime.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/publicsvn/openmcl/!svn/ver/14643/trunk/source/objc-bridge/objc-runtime.lisp
+END
+process-objc-modules.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/objc-bridge/process-objc-modules.lisp
+END
+fake-cfbundle-path.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/publicsvn/openmcl/!svn/ver/13340/trunk/source/objc-bridge/fake-cfbundle-path.lisp
+END
+objc-package.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/publicsvn/openmcl/!svn/ver/14263/trunk/source/objc-bridge/objc-package.lisp
+END
+objc-support.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/publicsvn/openmcl/!svn/ver/14698/trunk/source/objc-bridge/objc-support.lisp
+END

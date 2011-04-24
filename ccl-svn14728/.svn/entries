@@ -1,0 +1,107 @@
+10
+
+dir
+14728
+http://svn.clozure.com/publicsvn/openmcl/trunk/source
+http://svn.clozure.com/publicsvn/openmcl
+
+
+
+2011-04-22T21:45:32.847284Z
+14727
+gb
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+8bdb8f1d-59ce-db11-9e41-0016172a54ae
+
+l1-fasls
+dir
+
+cocoa-ide
+dir
+
+lisp-kernel
+dir
+
+scripts
+dir
+
+ChangeLog
+file
+
+
+
+
+2011-04-24T23:01:51.608518Z
+d41d8cd98f00b204e9800998ecf8427e
+2007-10-09T04:21:01.729887Z
+7372
+gb
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+xdump
+dir
+
+tools
+dir
+
+library
+dir
+
+level-0
+dir
+
+level-1
+dir
+
+doc
+dir
+
+lib
+dir
+
+objc-bridge
+dir
+
+bin
+dir
+
+compiler
+dir
+
+examples
+dir
+

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/publicsvn/openmcl/!svn/ver/13814/trunk/source/cocoa-ide/hemlock/unused/archive/tty
+END
+termcap.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/tty/termcap.lisp
+END
+tty-screen.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/tty/tty-screen.lisp
+END
+tty-disp-rt.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/tty/tty-disp-rt.lisp
+END
+tty-display.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/tty/tty-display.lisp
+END

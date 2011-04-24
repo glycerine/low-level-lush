@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/publicsvn/openmcl/!svn/ver/14722/trunk/source/cocoa-ide
+END
+swank-ccl-ide.el
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/publicsvn/openmcl/!svn/ver/12214/trunk/source/cocoa-ide/swank-ccl-ide.el
+END
+xapropos.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/publicsvn/openmcl/!svn/ver/14238/trunk/source/cocoa-ide/xapropos.lisp
+END
+cocoa-grep.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/publicsvn/openmcl/!svn/ver/14249/trunk/source/cocoa-ide/cocoa-grep.lisp
+END
+hemlock.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock.lisp
+END
+app-delegate.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/publicsvn/openmcl/!svn/ver/14492/trunk/source/cocoa-ide/app-delegate.lisp
+END
+cocoa-defaults.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/publicsvn/openmcl/!svn/ver/13449/trunk/source/cocoa-ide/cocoa-defaults.lisp
+END
+cocoa-typeout.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/publicsvn/openmcl/!svn/ver/9142/trunk/source/cocoa-ide/cocoa-typeout.lisp
+END
+file-dialogs.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/publicsvn/openmcl/!svn/ver/13543/trunk/source/cocoa-ide/file-dialogs.lisp
+END
+cocoa-backtrace.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/publicsvn/openmcl/!svn/ver/14654/trunk/source/cocoa-ide/cocoa-backtrace.lisp
+END
+defsystem.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/publicsvn/openmcl/!svn/ver/14298/trunk/source/cocoa-ide/defsystem.lisp
+END
+hemlock-text.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/publicsvn/openmcl/!svn/ver/14489/trunk/source/cocoa-ide/hemlock-text.lisp
+END
+swank-listener.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/publicsvn/openmcl/!svn/ver/12214/trunk/source/cocoa-ide/swank-listener.lisp
+END
+console-window.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/publicsvn/openmcl/!svn/ver/12629/trunk/source/cocoa-ide/console-window.lisp
+END
+cocoa-listener.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/publicsvn/openmcl/!svn/ver/14699/trunk/source/cocoa-ide/cocoa-listener.lisp
+END
+cocoa-editor.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/publicsvn/openmcl/!svn/ver/14722/trunk/source/cocoa-ide/cocoa-editor.lisp
+END
+compile-hemlock.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/publicsvn/openmcl/!svn/ver/12273/trunk/source/cocoa-ide/compile-hemlock.lisp
+END
+processes-window.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/publicsvn/openmcl/!svn/ver/9138/trunk/source/cocoa-ide/processes-window.lisp
+END
+constants.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/publicsvn/openmcl/!svn/ver/14238/trunk/source/cocoa-ide/constants.lisp
+END
+Info.plist-proto
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/publicsvn/openmcl/!svn/ver/13232/trunk/source/cocoa-ide/Info.plist-proto
+END
+cocoa-utils.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/publicsvn/openmcl/!svn/ver/14654/trunk/source/cocoa-ide/cocoa-utils.lisp
+END
+cocoa.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/publicsvn/openmcl/!svn/ver/14616/trunk/source/cocoa-ide/cocoa.lisp
+END
+cocoa-application.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/publicsvn/openmcl/!svn/ver/14616/trunk/source/cocoa-ide/cocoa-application.lisp
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/README
+END
+cocoa-doc.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/publicsvn/openmcl/!svn/ver/12492/trunk/source/cocoa-ide/cocoa-doc.lisp
+END
+apropos-window.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/publicsvn/openmcl/!svn/ver/8522/trunk/source/cocoa-ide/apropos-window.lisp
+END
+cocoa-window.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/publicsvn/openmcl/!svn/ver/14527/trunk/source/cocoa-ide/cocoa-window.lisp
+END
+start.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/publicsvn/openmcl/!svn/ver/14244/trunk/source/cocoa-ide/start.lisp
+END
+xinspector.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/publicsvn/openmcl/!svn/ver/12024/trunk/source/cocoa-ide/xinspector.lisp
+END
+builder-utilities.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/publicsvn/openmcl/!svn/ver/13035/trunk/source/cocoa-ide/builder-utilities.lisp
+END
+build-application.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/publicsvn/openmcl/!svn/ver/13035/trunk/source/cocoa-ide/build-application.lisp
+END
+preferences.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/publicsvn/openmcl/!svn/ver/13448/trunk/source/cocoa-ide/preferences.lisp
+END
+cocoa-prefs.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/publicsvn/openmcl/!svn/ver/11466/trunk/source/cocoa-ide/cocoa-prefs.lisp
+END
+search-files.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/publicsvn/openmcl/!svn/ver/14249/trunk/source/cocoa-ide/search-files.lisp
+END
+inspector.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/publicsvn/openmcl/!svn/ver/14700/trunk/source/cocoa-ide/inspector.lisp
+END
+project.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/publicsvn/openmcl/!svn/ver/13055/trunk/source/cocoa-ide/project.lisp
+END
+ide-self-update.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/publicsvn/openmcl/!svn/ver/12120/trunk/source/cocoa-ide/ide-self-update.lisp
+END
+ide-bundle.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/publicsvn/openmcl/!svn/ver/13034/trunk/source/cocoa-ide/ide-bundle.lisp
+END

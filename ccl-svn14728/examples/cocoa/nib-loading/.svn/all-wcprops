@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/publicsvn/openmcl/!svn/ver/13211/trunk/source/examples/cocoa/nib-loading
+END
+HOWTO.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/publicsvn/openmcl/!svn/ver/11978/trunk/source/examples/cocoa/nib-loading/HOWTO.html
+END
+nib-loading.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/publicsvn/openmcl/!svn/ver/13211/trunk/source/examples/cocoa/nib-loading/nib-loading.lisp
+END

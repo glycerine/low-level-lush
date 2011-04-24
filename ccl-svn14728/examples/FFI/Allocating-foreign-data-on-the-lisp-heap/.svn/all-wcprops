@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/examples/FFI/Allocating-foreign-data-on-the-lisp-heap
+END
+ptrtest-compile.sh
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/examples/FFI/Allocating-foreign-data-on-the-lisp-heap/ptrtest-compile.sh
+END
+ptrtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/examples/FFI/Allocating-foreign-data-on-the-lisp-heap/ptrtest.c
+END
+Readme.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/examples/FFI/Allocating-foreign-data-on-the-lisp-heap/Readme.rtf
+END
+ptrtest.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/examples/FFI/Allocating-foreign-data-on-the-lisp-heap/ptrtest.lisp
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/publicsvn/openmcl/!svn/ver/13291/trunk/source/doc/src/xsl
+END
+catalog-fink
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/publicsvn/openmcl/!svn/ver/8555/trunk/source/doc/src/xsl/catalog-fink
+END
+catalog-macports
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/publicsvn/openmcl/!svn/ver/8580/trunk/source/doc/src/xsl/catalog-macports
+END
+toc-at-end.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/publicsvn/openmcl/!svn/ver/8820/trunk/source/doc/src/xsl/toc-at-end.xsl
+END
+site-navigator.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/publicsvn/openmcl/!svn/ver/8555/trunk/source/doc/src/xsl/site-navigator.xsl
+END
+minor-customizations.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/publicsvn/openmcl/!svn/ver/8555/trunk/source/doc/src/xsl/minor-customizations.xsl
+END
+openmcl.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/publicsvn/openmcl/!svn/ver/8993/trunk/source/doc/src/xsl/openmcl.xsl
+END
+optional-onechunk.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/publicsvn/openmcl/!svn/ver/8555/trunk/source/doc/src/xsl/optional-onechunk.xsl
+END
+footer.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/publicsvn/openmcl/!svn/ver/9205/trunk/source/doc/src/xsl/footer.xsl
+END
+refentry.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/publicsvn/openmcl/!svn/ver/8993/trunk/source/doc/src/xsl/refentry.xsl
+END
+directory-fixes.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/publicsvn/openmcl/!svn/ver/8993/trunk/source/doc/src/xsl/directory-fixes.xsl
+END
+catalog-fedora
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/publicsvn/openmcl/!svn/ver/8557/trunk/source/doc/src/xsl/catalog-fedora
+END
+parameters.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/publicsvn/openmcl/!svn/ver/8555/trunk/source/doc/src/xsl/parameters.xsl
+END
+catalog
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/publicsvn/openmcl/!svn/ver/8555/trunk/source/doc/src/xsl/catalog
+END
+catalog-debian
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/publicsvn/openmcl/!svn/ver/13291/trunk/source/doc/src/xsl/catalog-debian
+END

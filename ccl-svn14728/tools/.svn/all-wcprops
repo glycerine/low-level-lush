@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/publicsvn/openmcl/!svn/ver/14706/trunk/source/tools
+END
+asdf.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/publicsvn/openmcl/!svn/ver/14706/trunk/source/tools/asdf.lisp
+END
+README-OpenMCL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/tools/README-OpenMCL.txt
+END
+defsystem.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/publicsvn/openmcl/!svn/ver/11855/trunk/source/tools/defsystem.lisp
+END

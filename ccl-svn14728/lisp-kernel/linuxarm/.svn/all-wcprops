@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/publicsvn/openmcl/!svn/ver/14578/trunk/source/lisp-kernel/linuxarm
+END
+armlinux.x
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/publicsvn/openmcl/!svn/ver/14119/trunk/source/lisp-kernel/linuxarm/armlinux.x
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/publicsvn/openmcl/!svn/ver/14578/trunk/source/lisp-kernel/linuxarm/Makefile
+END
+.gdbinit
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/publicsvn/openmcl/!svn/ver/14119/trunk/source/lisp-kernel/linuxarm/.gdbinit
+END

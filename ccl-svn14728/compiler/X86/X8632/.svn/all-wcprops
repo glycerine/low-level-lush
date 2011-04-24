@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/publicsvn/openmcl/!svn/ver/14621/trunk/source/compiler/X86/X8632
+END
+x8632-backend.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/publicsvn/openmcl/!svn/ver/14619/trunk/source/compiler/X86/X8632/x8632-backend.lisp
+END
+x8632-arch.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/publicsvn/openmcl/!svn/ver/14621/trunk/source/compiler/X86/X8632/x8632-arch.lisp
+END
+x8632-vinsns.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/publicsvn/openmcl/!svn/ver/14338/trunk/source/compiler/X86/X8632/x8632-vinsns.lisp
+END

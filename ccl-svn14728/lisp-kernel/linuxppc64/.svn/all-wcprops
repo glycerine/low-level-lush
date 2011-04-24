@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/publicsvn/openmcl/!svn/ver/14392/trunk/source/lisp-kernel/linuxppc64
+END
+elf64ppc.x
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/publicsvn/openmcl/!svn/ver/11579/trunk/source/lisp-kernel/linuxppc64/elf64ppc.x
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/publicsvn/openmcl/!svn/ver/14392/trunk/source/lisp-kernel/linuxppc64/Makefile
+END

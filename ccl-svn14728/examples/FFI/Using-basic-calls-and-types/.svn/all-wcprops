@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/examples/FFI/Using-basic-calls-and-types
+END
+typetest-compile.sh
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/examples/FFI/Using-basic-calls-and-types/typetest-compile.sh
+END
+typetest.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/examples/FFI/Using-basic-calls-and-types/typetest.c
+END
+Readme.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/examples/FFI/Using-basic-calls-and-types/Readme.rtf
+END
+typetest.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/examples/FFI/Using-basic-calls-and-types/typetest.lisp
+END

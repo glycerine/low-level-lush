@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/publicsvn/openmcl/!svn/ver/14702/trunk/source/lisp-kernel/darwinx8664
+END
+exports
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/publicsvn/openmcl/!svn/ver/14701/trunk/source/lisp-kernel/darwinx8664/exports
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/publicsvn/openmcl/!svn/ver/14702/trunk/source/lisp-kernel/darwinx8664/Makefile
+END
+.gdbinit
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/publicsvn/openmcl/!svn/ver/10278/trunk/source/lisp-kernel/darwinx8664/.gdbinit
+END

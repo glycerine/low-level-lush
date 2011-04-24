@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/publicsvn/openmcl/!svn/ver/13814/trunk/source/cocoa-ide/hemlock/unused/archive/spell
+END
+spell-aug.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/spell/spell-aug.lisp
+END
+package.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/spell/package.lisp
+END
+constants.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/spell/constants.lisp
+END
+flags.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/spell/flags.lisp
+END
+classes.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/spell/classes.lisp
+END
+build.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/spell/build.lisp
+END
+spell-dictionary.text
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/spell/spell-dictionary.text
+END
+spell.asd
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/spell/spell.asd
+END
+correlate.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/spell/correlate.lisp
+END
+hashing.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/spell/hashing.lisp
+END
+spellcoms.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/spell/spellcoms.lisp
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/spell/README
+END
+io.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/spell/io.lisp
+END

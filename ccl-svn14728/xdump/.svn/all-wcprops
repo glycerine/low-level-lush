@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/publicsvn/openmcl/!svn/ver/14623/trunk/source/xdump
+END
+xx8632-fasload.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/publicsvn/openmcl/!svn/ver/13279/trunk/source/xdump/xx8632-fasload.lisp
+END
+hashenv.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/xdump/hashenv.lisp
+END
+heap-image.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/publicsvn/openmcl/!svn/ver/13279/trunk/source/xdump/heap-image.lisp
+END
+faslenv.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/publicsvn/openmcl/!svn/ver/13279/trunk/source/xdump/faslenv.lisp
+END
+xx8664-fasload.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/publicsvn/openmcl/!svn/ver/13279/trunk/source/xdump/xx8664-fasload.lisp
+END
+xarmfasload.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/publicsvn/openmcl/!svn/ver/14578/trunk/source/xdump/xarmfasload.lisp
+END
+xfasload.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/publicsvn/openmcl/!svn/ver/14623/trunk/source/xdump/xfasload.lisp
+END
+xppcfasload.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/publicsvn/openmcl/!svn/ver/13279/trunk/source/xdump/xppcfasload.lisp
+END

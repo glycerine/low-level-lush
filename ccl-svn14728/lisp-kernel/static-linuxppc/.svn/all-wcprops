@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/publicsvn/openmcl/!svn/ver/14197/trunk/source/lisp-kernel/static-linuxppc
+END
+staticlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/lisp-kernel/static-linuxppc/staticlib.c
+END
+ccl-platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/publicsvn/openmcl/!svn/ver/13593/trunk/source/lisp-kernel/static-linuxppc/ccl-platform.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/publicsvn/openmcl/!svn/ver/14197/trunk/source/lisp-kernel/static-linuxppc/Makefile
+END

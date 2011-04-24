@@ -1,0 +1,647 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/publicsvn/openmcl/!svn/ver/14723/trunk/source/lisp-kernel
+END
+os-freebsd.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/publicsvn/openmcl/!svn/ver/13638/trunk/source/lisp-kernel/os-freebsd.h
+END
+arm-asmutils.s
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/publicsvn/openmcl/!svn/ver/14549/trunk/source/lisp-kernel/arm-asmutils.s
+END
+gc.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/publicsvn/openmcl/!svn/ver/14295/trunk/source/lisp-kernel/gc.h
+END
+platform-win64.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/publicsvn/openmcl/!svn/ver/13952/trunk/source/lisp-kernel/platform-win64.h
+END
+bits.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/lisp-kernel/bits.c
+END
+arm-spentry.s
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/publicsvn/openmcl/!svn/ver/14715/trunk/source/lisp-kernel/arm-spentry.s
+END
+platform-linuxx8632.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/publicsvn/openmcl/!svn/ver/13952/trunk/source/lisp-kernel/platform-linuxx8632.h
+END
+platform-linuxppc64.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/publicsvn/openmcl/!svn/ver/13649/trunk/source/lisp-kernel/platform-linuxppc64.h
+END
+bits.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/publicsvn/openmcl/!svn/ver/14295/trunk/source/lisp-kernel/bits.h
+END
+platform-solarisx86.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/publicsvn/openmcl/!svn/ver/13960/trunk/source/lisp-kernel/platform-solarisx86.h
+END
+ppc-constants64.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/publicsvn/openmcl/!svn/ver/14146/trunk/source/lisp-kernel/ppc-constants64.h
+END
+x86-uuo.s
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/publicsvn/openmcl/!svn/ver/13337/trunk/source/lisp-kernel/x86-uuo.s
+END
+ppc-spjump.s
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/publicsvn/openmcl/!svn/ver/13337/trunk/source/lisp-kernel/ppc-spjump.s
+END
+lisp_globals.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/publicsvn/openmcl/!svn/ver/14119/trunk/source/lisp-kernel/lisp_globals.h
+END
+gc-common.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/publicsvn/openmcl/!svn/ver/14619/trunk/source/lisp-kernel/gc-common.c
+END
+x86-subprims64.s
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/publicsvn/openmcl/!svn/ver/13337/trunk/source/lisp-kernel/x86-subprims64.s
+END
+image.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/publicsvn/openmcl/!svn/ver/14601/trunk/source/lisp-kernel/image.c
+END
+standard-inttypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/publicsvn/openmcl/!svn/ver/13596/trunk/source/lisp-kernel/standard-inttypes.h
+END
+ppc-macros.s
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/publicsvn/openmcl/!svn/ver/13337/trunk/source/lisp-kernel/ppc-macros.s
+END
+platform-darwinx8632.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/publicsvn/openmcl/!svn/ver/14295/trunk/source/lisp-kernel/platform-darwinx8632.h
+END
+lisp-errors.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/lisp-kernel/lisp-errors.h
+END
+ppc-constants64.s
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/publicsvn/openmcl/!svn/ver/13337/trunk/source/lisp-kernel/ppc-constants64.s
+END
+windows-calls.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/publicsvn/openmcl/!svn/ver/14619/trunk/source/lisp-kernel/windows-calls.c
+END
+x86-spjump32.s
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/publicsvn/openmcl/!svn/ver/13337/trunk/source/lisp-kernel/x86-spjump32.s
+END
+image.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/publicsvn/openmcl/!svn/ver/14295/trunk/source/lisp-kernel/image.h
+END
+x86-macros.s
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/publicsvn/openmcl/!svn/ver/14631/trunk/source/lisp-kernel/x86-macros.s
+END
+platform-darwinppc64.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/publicsvn/openmcl/!svn/ver/13638/trunk/source/lisp-kernel/platform-darwinppc64.h
+END
+platform-linuxppc.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/publicsvn/openmcl/!svn/ver/13649/trunk/source/lisp-kernel/platform-linuxppc.h
+END
+errors.s
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/publicsvn/openmcl/!svn/ver/13337/trunk/source/lisp-kernel/errors.s
+END
+solaris-inttypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/publicsvn/openmcl/!svn/ver/13606/trunk/source/lisp-kernel/solaris-inttypes.h
+END
+arm-constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/publicsvn/openmcl/!svn/ver/14270/trunk/source/lisp-kernel/arm-constants.h
+END
+lispdcmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/lisp-kernel/lispdcmd.c
+END
+threads.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/publicsvn/openmcl/!svn/ver/14619/trunk/source/lisp-kernel/threads.h
+END
+lisptypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/publicsvn/openmcl/!svn/ver/13599/trunk/source/lisp-kernel/lisptypes.h
+END
+ppc-asmutils.s
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/publicsvn/openmcl/!svn/ver/13337/trunk/source/lisp-kernel/ppc-asmutils.s
+END
+ppc-constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/publicsvn/openmcl/!svn/ver/13627/trunk/source/lisp-kernel/ppc-constants.h
+END
+lispdcmd.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/lisp-kernel/lispdcmd.h
+END
+plsym.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/publicsvn/openmcl/!svn/ver/13496/trunk/source/lisp-kernel/plsym.c
+END
+ppc-subprims.s
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/publicsvn/openmcl/!svn/ver/13337/trunk/source/lisp-kernel/ppc-subprims.s
+END
+platform-linuxx8664.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/publicsvn/openmcl/!svn/ver/13952/trunk/source/lisp-kernel/platform-linuxx8664.h
+END
+memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/publicsvn/openmcl/!svn/ver/14295/trunk/source/lisp-kernel/memory.c
+END
+ppc-uuo.s
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/publicsvn/openmcl/!svn/ver/13337/trunk/source/lisp-kernel/ppc-uuo.s
+END
+arm-constants.s
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/publicsvn/openmcl/!svn/ver/14119/trunk/source/lisp-kernel/arm-constants.s
+END
+x86-asmutils32.s
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/publicsvn/openmcl/!svn/ver/14619/trunk/source/lisp-kernel/x86-asmutils32.s
+END
+platform-darwinarm.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/publicsvn/openmcl/!svn/ver/14189/trunk/source/lisp-kernel/platform-darwinarm.h
+END
+lisp.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/publicsvn/openmcl/!svn/ver/14503/trunk/source/lisp-kernel/lisp.h
+END
+ppc-constants.s
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/publicsvn/openmcl/!svn/ver/13337/trunk/source/lisp-kernel/ppc-constants.s
+END
+x86-spentry32.s
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/publicsvn/openmcl/!svn/ver/14657/trunk/source/lisp-kernel/x86-spentry32.s
+END
+area.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/publicsvn/openmcl/!svn/ver/14600/trunk/source/lisp-kernel/area.h
+END
+os-windows.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/publicsvn/openmcl/!svn/ver/13638/trunk/source/lisp-kernel/os-windows.h
+END
+arm-macros.s
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/publicsvn/openmcl/!svn/ver/14515/trunk/source/lisp-kernel/arm-macros.s
+END
+mach-o-image.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/publicsvn/openmcl/!svn/ver/14630/trunk/source/lisp-kernel/mach-o-image.c
+END
+lisp.s
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/publicsvn/openmcl/!svn/ver/14119/trunk/source/lisp-kernel/lisp.s
+END
+macros.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/publicsvn/openmcl/!svn/ver/14619/trunk/source/lisp-kernel/macros.h
+END
+platform-darwinx8664.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/publicsvn/openmcl/!svn/ver/14295/trunk/source/lisp-kernel/platform-darwinx8664.h
+END
+arm_print.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/publicsvn/openmcl/!svn/ver/14599/trunk/source/lisp-kernel/arm_print.c
+END
+x86-spjump64.s
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/publicsvn/openmcl/!svn/ver/13337/trunk/source/lisp-kernel/x86-spjump64.s
+END
+ppc_print.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/publicsvn/openmcl/!svn/ver/14599/trunk/source/lisp-kernel/ppc_print.c
+END
+os-solaris.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/publicsvn/openmcl/!svn/ver/13638/trunk/source/lisp-kernel/os-solaris.h
+END
+ppc-exceptions.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/publicsvn/openmcl/!svn/ver/14438/trunk/source/lisp-kernel/ppc-exceptions.c
+END
+plbt.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/lisp-kernel/plbt.c
+END
+x86-exceptions.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/publicsvn/openmcl/!svn/ver/14692/trunk/source/lisp-kernel/x86-exceptions.c
+END
+x86-constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/publicsvn/openmcl/!svn/ver/13952/trunk/source/lisp-kernel/x86-constants.h
+END
+ppc-spentry.s
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/publicsvn/openmcl/!svn/ver/13337/trunk/source/lisp-kernel/ppc-spentry.s
+END
+platform-solarisx64.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/publicsvn/openmcl/!svn/ver/13960/trunk/source/lisp-kernel/platform-solarisx64.h
+END
+kernel-globals.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/publicsvn/openmcl/!svn/ver/13279/trunk/source/lisp-kernel/kernel-globals.h
+END
+ppc-exceptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/publicsvn/openmcl/!svn/ver/13637/trunk/source/lisp-kernel/ppc-exceptions.h
+END
+platform-androidarm.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/publicsvn/openmcl/!svn/ver/14574/trunk/source/lisp-kernel/platform-androidarm.h
+END
+pmcl-kernel.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/publicsvn/openmcl/!svn/ver/14651/trunk/source/lisp-kernel/pmcl-kernel.c
+END
+ppc-gc.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/publicsvn/openmcl/!svn/ver/14723/trunk/source/lisp-kernel/ppc-gc.c
+END
+x86-constants32.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/publicsvn/openmcl/!svn/ver/14619/trunk/source/lisp-kernel/x86-constants32.h
+END
+x86-exceptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/publicsvn/openmcl/!svn/ver/14295/trunk/source/lisp-kernel/x86-exceptions.h
+END
+xlbt.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/publicsvn/openmcl/!svn/ver/14619/trunk/source/lisp-kernel/xlbt.c
+END
+platform-freebsdx8632.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/publicsvn/openmcl/!svn/ver/13952/trunk/source/lisp-kernel/platform-freebsdx8632.h
+END
+windows-inttypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/publicsvn/openmcl/!svn/ver/13596/trunk/source/lisp-kernel/windows-inttypes.h
+END
+x86-gc.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/publicsvn/openmcl/!svn/ver/14723/trunk/source/lisp-kernel/x86-gc.c
+END
+x86-asmutils64.s
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/publicsvn/openmcl/!svn/ver/13337/trunk/source/lisp-kernel/x86-asmutils64.s
+END
+unix-calls.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/publicsvn/openmcl/!svn/ver/14516/trunk/source/lisp-kernel/unix-calls.c
+END
+x86-constants.s
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/publicsvn/openmcl/!svn/ver/14652/trunk/source/lisp-kernel/x86-constants.s
+END
+constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/publicsvn/openmcl/!svn/ver/14144/trunk/source/lisp-kernel/constants.h
+END
+x86-spentry64.s
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/publicsvn/openmcl/!svn/ver/14629/trunk/source/lisp-kernel/x86-spentry64.s
+END
+albt.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/publicsvn/openmcl/!svn/ver/14516/trunk/source/lisp-kernel/albt.c
+END
+os-linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/publicsvn/openmcl/!svn/ver/14549/trunk/source/lisp-kernel/os-linux.h
+END
+m4macros.m4
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/publicsvn/openmcl/!svn/ver/14119/trunk/source/lisp-kernel/m4macros.m4
+END
+x86-constants32.s
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/publicsvn/openmcl/!svn/ver/14619/trunk/source/lisp-kernel/x86-constants32.s
+END
+platform-linuxarm.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/publicsvn/openmcl/!svn/ver/14354/trunk/source/lisp-kernel/platform-linuxarm.h
+END
+plprint.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/lisp-kernel/plprint.c
+END
+platform-win32.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/publicsvn/openmcl/!svn/ver/13952/trunk/source/lisp-kernel/platform-win32.h
+END
+arm-exceptions.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/publicsvn/openmcl/!svn/ver/14655/trunk/source/lisp-kernel/arm-exceptions.c
+END
+thread_manager.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/publicsvn/openmcl/!svn/ver/14658/trunk/source/lisp-kernel/thread_manager.c
+END
+x86_print.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/publicsvn/openmcl/!svn/ver/14716/trunk/source/lisp-kernel/x86_print.c
+END
+arm-exceptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/publicsvn/openmcl/!svn/ver/14515/trunk/source/lisp-kernel/arm-exceptions.h
+END
+arm-uuo.s
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/publicsvn/openmcl/!svn/ver/14267/trunk/source/lisp-kernel/arm-uuo.s
+END
+arm-gc.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/publicsvn/openmcl/!svn/ver/14723/trunk/source/lisp-kernel/arm-gc.c
+END
+ppc-constants32.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/publicsvn/openmcl/!svn/ver/14146/trunk/source/lisp-kernel/ppc-constants32.h
+END
+os-darwin.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/publicsvn/openmcl/!svn/ver/13638/trunk/source/lisp-kernel/os-darwin.h
+END
+x86-subprims32.s
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/publicsvn/openmcl/!svn/ver/14619/trunk/source/lisp-kernel/x86-subprims32.s
+END
+imports.s
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/publicsvn/openmcl/!svn/ver/14431/trunk/source/lisp-kernel/imports.s
+END
+platform-darwinppc.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/publicsvn/openmcl/!svn/ver/13638/trunk/source/lisp-kernel/platform-darwinppc.h
+END
+x86-constants64.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/publicsvn/openmcl/!svn/ver/14207/trunk/source/lisp-kernel/x86-constants64.h
+END
+platform-freebsdx8664.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/publicsvn/openmcl/!svn/ver/14123/trunk/source/lisp-kernel/platform-freebsdx8664.h
+END
+ppc-constants32.s
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/publicsvn/openmcl/!svn/ver/13337/trunk/source/lisp-kernel/ppc-constants32.s
+END
+pad.s
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/publicsvn/openmcl/!svn/ver/13338/trunk/source/lisp-kernel/pad.s
+END
+memprotect.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/publicsvn/openmcl/!svn/ver/14295/trunk/source/lisp-kernel/memprotect.h
+END
+x86-constants64.s
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/publicsvn/openmcl/!svn/ver/13952/trunk/source/lisp-kernel/x86-constants64.s
+END
+lisp-exceptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/publicsvn/openmcl/!svn/ver/14549/trunk/source/lisp-kernel/lisp-exceptions.h
+END
+lisp-debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/publicsvn/openmcl/!svn/ver/14619/trunk/source/lisp-kernel/lisp-debug.c
+END

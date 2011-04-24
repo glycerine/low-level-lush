@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/publicsvn/openmcl/!svn/ver/14695/trunk/source/compiler/PPC
+END
+ppc-disassemble.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/publicsvn/openmcl/!svn/ver/14382/trunk/source/compiler/PPC/ppc-disassemble.lisp
+END
+ppc-lap.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/compiler/PPC/ppc-lap.lisp
+END
+ppc-arch.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/publicsvn/openmcl/!svn/ver/13330/trunk/source/compiler/PPC/ppc-arch.lisp
+END
+ppc-asm.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/compiler/PPC/ppc-asm.lisp
+END
+ppc-lapmacros.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/publicsvn/openmcl/!svn/ver/13327/trunk/source/compiler/PPC/ppc-lapmacros.lisp
+END
+ppc2.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/publicsvn/openmcl/!svn/ver/14695/trunk/source/compiler/PPC/ppc2.lisp
+END
+ppc-backend.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/compiler/PPC/ppc-backend.lisp
+END

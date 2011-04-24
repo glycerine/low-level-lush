@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/publicsvn/openmcl/!svn/ver/14347/trunk/source/lisp-kernel/linuxx8664
+END
+elf_x86_64.x
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/lisp-kernel/linuxx8664/elf_x86_64.x
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/publicsvn/openmcl/!svn/ver/14347/trunk/source/lisp-kernel/linuxx8664/Makefile
+END
+.gdbinit
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/publicsvn/openmcl/!svn/ver/9929/trunk/source/lisp-kernel/linuxx8664/.gdbinit
+END

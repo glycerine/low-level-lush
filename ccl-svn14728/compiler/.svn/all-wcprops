@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/publicsvn/openmcl/!svn/ver/14727/trunk/source/compiler
+END
+risc-lap.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/compiler/risc-lap.lisp
+END
+nx-base-app.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/compiler/nx-base-app.lisp
+END
+arch.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/publicsvn/openmcl/!svn/ver/13792/trunk/source/compiler/arch.lisp
+END
+reg.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/compiler/reg.lisp
+END
+nx.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/publicsvn/openmcl/!svn/ver/14421/trunk/source/compiler/nx.lisp
+END
+backend.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/publicsvn/openmcl/!svn/ver/14556/trunk/source/compiler/backend.lisp
+END
+lambda-list.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/publicsvn/openmcl/!svn/ver/14044/trunk/source/compiler/lambda-list.lisp
+END
+acode-rewrite.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/publicsvn/openmcl/!svn/ver/14727/trunk/source/compiler/acode-rewrite.lisp
+END
+vinsn.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/publicsvn/openmcl/!svn/ver/14472/trunk/source/compiler/vinsn.lisp
+END
+nxenv.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/publicsvn/openmcl/!svn/ver/14417/trunk/source/compiler/nxenv.lisp
+END
+dll-node.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/compiler/dll-node.lisp
+END
+vreg.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/compiler/vreg.lisp
+END
+subprims.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/publicsvn/openmcl/!svn/ver/14556/trunk/source/compiler/subprims.lisp
+END
+nx-basic.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/publicsvn/openmcl/!svn/ver/14703/trunk/source/compiler/nx-basic.lisp
+END
+nx0.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/publicsvn/openmcl/!svn/ver/14703/trunk/source/compiler/nx0.lisp
+END
+optimizers.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/publicsvn/openmcl/!svn/ver/14725/trunk/source/compiler/optimizers.lisp
+END
+nx1.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/publicsvn/openmcl/!svn/ver/14507/trunk/source/compiler/nx1.lisp
+END
+nx2.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/publicsvn/openmcl/!svn/ver/14727/trunk/source/compiler/nx2.lisp
+END

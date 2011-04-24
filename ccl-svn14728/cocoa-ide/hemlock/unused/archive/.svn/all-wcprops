@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/publicsvn/openmcl/!svn/ver/13814/trunk/source/cocoa-ide/hemlock/unused/archive
+END
+diredcoms.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/diredcoms.lisp
+END
+lisp-lib.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/lisp-lib.lisp
+END
+screen.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/screen.lisp
+END
+lispeval.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/lispeval.lisp
+END
+ts-stream.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/ts-stream.lisp
+END
+spell-corr.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/spell-corr.lisp
+END
+netnews.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/netnews.lisp
+END
+bufed.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/bufed.lisp
+END
+overwrite.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/overwrite.lisp
+END
+srccom.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/srccom.lisp
+END
+dired.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/dired.lisp
+END
+spell-aug.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/spell-aug.lisp
+END
+input.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/input.lisp
+END
+hunk-draw.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/hunk-draw.lisp
+END
+winimage.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/winimage.lisp
+END
+spellcoms.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/spellcoms.lisp
+END
+spell-rt.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/spell-rt.lisp
+END
+mh.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/mh.lisp
+END
+lispbuf.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/lispbuf.lisp
+END
+auto-save.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/auto-save.lisp
+END
+shell.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/shell.lisp
+END
+scribe.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/scribe.lisp
+END
+dylan.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/dylan.lisp
+END
+window.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/window.lisp
+END
+bit-display.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/bit-display.lisp
+END
+debug.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/debug.lisp
+END
+rcs.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/rcs.lisp
+END
+xcoms.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/xcoms.lisp
+END
+eval-server.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/eval-server.lisp
+END
+bit-screen.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/bit-screen.lisp
+END
+group.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/group.lisp
+END
+ts-buf.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/ts-buf.lisp
+END
+abbrev.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/abbrev.lisp
+END
+pascal.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/pascal.lisp
+END
+display.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/display.lisp
+END
+unixcoms.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/unixcoms.lisp
+END
+highlight.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/archive/highlight.lisp
+END

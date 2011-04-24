@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/publicsvn/openmcl/!svn/ver/13814/trunk/source/cocoa-ide/hemlock/unused
+END
+tty-stream.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/tty-stream.lisp
+END
+struct-ed.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/struct-ed.lisp
+END
+spell-build.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/spell-build.lisp
+END
+hi-integrity.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/hi-integrity.lisp
+END
+keytran.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/keytran.lisp
+END
+cursor.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/publicsvn/openmcl/!svn/ver/8428/trunk/source/cocoa-ide/hemlock/unused/cursor.lisp
+END
+keytrandefs.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/keytrandefs.lisp
+END
+kbdmac.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/publicsvn/openmcl/!svn/ver/8428/trunk/source/cocoa-ide/hemlock/unused/kbdmac.lisp
+END
+clx-ext.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/clx-ext.lisp
+END
+linimage.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/publicsvn/openmcl/!svn/ver/8428/trunk/source/cocoa-ide/hemlock/unused/linimage.lisp
+END
+hacks.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/hacks.lisp
+END
+gosmacs.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/gosmacs.lisp
+END
+ed-integrity.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/ed-integrity.lisp
+END
+bit-stream.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/bit-stream.lisp
+END
+hemcom.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/cocoa-ide/hemlock/unused/hemcom.lisp
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/publicsvn/openmcl/!svn/ver/14711/trunk/source/level-0/X86/X8632
+END
+x8632-bignum.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/level-0/X86/X8632/x8632-bignum.lisp
+END
+x8632-hash.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/publicsvn/openmcl/!svn/ver/13447/trunk/source/level-0/X86/X8632/x8632-hash.lisp
+END
+x8632-float.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/publicsvn/openmcl/!svn/ver/14619/trunk/source/level-0/X86/X8632/x8632-float.lisp
+END
+x8632-symbol.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/publicsvn/openmcl/!svn/ver/14640/trunk/source/level-0/X86/X8632/x8632-symbol.lisp
+END
+x8632-pred.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/level-0/X86/X8632/x8632-pred.lisp
+END
+x8632-misc.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/publicsvn/openmcl/!svn/ver/14711/trunk/source/level-0/X86/X8632/x8632-misc.lisp
+END
+x8632-numbers.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/publicsvn/openmcl/!svn/ver/13531/trunk/source/level-0/X86/X8632/x8632-numbers.lisp
+END
+x8632-array.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/publicsvn/openmcl/!svn/ver/13412/trunk/source/level-0/X86/X8632/x8632-array.lisp
+END
+x8632-def.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/level-0/X86/X8632/x8632-def.lisp
+END
+x8632-clos.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/level-0/X86/X8632/x8632-clos.lisp
+END
+x8632-utils.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/publicsvn/openmcl/!svn/ver/13792/trunk/source/level-0/X86/X8632/x8632-utils.lisp
+END

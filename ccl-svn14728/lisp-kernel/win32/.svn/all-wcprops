@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/publicsvn/openmcl/!svn/ver/14619/trunk/source/lisp-kernel/win32
+END
+pei-ia32.x
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/publicsvn/openmcl/!svn/ver/10580/trunk/source/lisp-kernel/win32/pei-ia32.x
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/publicsvn/openmcl/!svn/ver/14619/trunk/source/lisp-kernel/win32/Makefile
+END
+.gdbinit
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/publicsvn/openmcl/!svn/ver/11083/trunk/source/lisp-kernel/win32/.gdbinit
+END

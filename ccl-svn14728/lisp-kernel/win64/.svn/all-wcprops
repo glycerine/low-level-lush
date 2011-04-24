@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/publicsvn/openmcl/!svn/ver/14391/trunk/source/lisp-kernel/win64
+END
+yasm-redefinition.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/publicsvn/openmcl/!svn/ver/8511/trunk/source/lisp-kernel/win64/yasm-redefinition.patch
+END
+Makefile.nmake
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/publicsvn/openmcl/!svn/ver/14197/trunk/source/lisp-kernel/win64/Makefile.nmake
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/publicsvn/openmcl/!svn/ver/14391/trunk/source/lisp-kernel/win64/Makefile
+END
+pei-x86-64.x
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/publicsvn/openmcl/!svn/ver/10569/trunk/source/lisp-kernel/win64/pei-x86-64.x
+END
+.gdbinit
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/publicsvn/openmcl/!svn/ver/10715/trunk/source/lisp-kernel/win64/.gdbinit
+END

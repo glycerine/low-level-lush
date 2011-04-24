@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 50
+*.dx32fsl
+*.lx32fsl
+*.wx32fsl
+*.fx32fsl
+*.sx32fsl
+
+END

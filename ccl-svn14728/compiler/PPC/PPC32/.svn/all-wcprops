@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/publicsvn/openmcl/!svn/ver/14339/trunk/source/compiler/PPC/PPC32
+END
+ppc32-backend.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/compiler/PPC/PPC32/ppc32-backend.lisp
+END
+ppc32-arch.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/publicsvn/openmcl/!svn/ver/13971/trunk/source/compiler/PPC/PPC32/ppc32-arch.lisp
+END
+ppc32-vinsns.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/publicsvn/openmcl/!svn/ver/14339/trunk/source/compiler/PPC/PPC32/ppc32-vinsns.lisp
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/publicsvn/openmcl/!svn/ver/13814/trunk/source/examples/rubix
+END
+rubix.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/publicsvn/openmcl/!svn/ver/12674/trunk/source/examples/rubix/rubix.lisp
+END
+lights.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/examples/rubix/lights.lisp
+END
+blocks.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/examples/rubix/blocks.lisp
+END
+opengl.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/examples/rubix/opengl.lisp
+END
+vectors.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/examples/rubix/vectors.lisp
+END
+loader.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/publicsvn/openmcl/!svn/ver/12674/trunk/source/examples/rubix/loader.lisp
+END

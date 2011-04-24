@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/publicsvn/openmcl/!svn/ver/14707/trunk/source/compiler/ARM
+END
+arm-lap.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/publicsvn/openmcl/!svn/ver/14119/trunk/source/compiler/ARM/arm-lap.lisp
+END
+arm-arch.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/publicsvn/openmcl/!svn/ver/14147/trunk/source/compiler/ARM/arm-arch.lisp
+END
+arm-asm.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/publicsvn/openmcl/!svn/ver/14558/trunk/source/compiler/ARM/arm-asm.lisp
+END
+arm-vinsns.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/publicsvn/openmcl/!svn/ver/14707/trunk/source/compiler/ARM/arm-vinsns.lisp
+END
+arm-lapmacros.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/publicsvn/openmcl/!svn/ver/14518/trunk/source/compiler/ARM/arm-lapmacros.lisp
+END
+arm2.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/publicsvn/openmcl/!svn/ver/14695/trunk/source/compiler/ARM/arm2.lisp
+END
+arm-backend.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/publicsvn/openmcl/!svn/ver/14558/trunk/source/compiler/ARM/arm-backend.lisp
+END
+arm-disassemble.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/publicsvn/openmcl/!svn/ver/14119/trunk/source/compiler/ARM/arm-disassemble.lisp
+END

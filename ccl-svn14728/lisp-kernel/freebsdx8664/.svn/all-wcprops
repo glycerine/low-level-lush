@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/publicsvn/openmcl/!svn/ver/14391/trunk/source/lisp-kernel/freebsdx8664
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/publicsvn/openmcl/!svn/ver/14391/trunk/source/lisp-kernel/freebsdx8664/Makefile
+END
+.gdbinit
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/publicsvn/openmcl/!svn/ver/8177/trunk/source/lisp-kernel/freebsdx8664/.gdbinit
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/publicsvn/openmcl/!svn/ver/13814/trunk/source/level-0/PPC/PPC32
+END
+ppc32-bignum.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/publicsvn/openmcl/!svn/ver/13067/trunk/source/level-0/PPC/PPC32/ppc32-bignum.lisp
+END
