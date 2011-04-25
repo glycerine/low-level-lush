@@ -10,7 +10,7 @@ Together they offer a great interactive and production environment.  Since they 
 
 The Gambit-C system from Marc Feeley at Montreal offers full closures and C codegen, plus SIX for infix syntax, syntax rules, and serializable closures.
 
-For garbage collection we use Ralf's libcmm augmented by reference linking and pool based malloc replacement umem library.
+For garbage collection we use Ralf's libcmm augmented by reference linking. Also pool based malloc replacement umem library and/or google's TCMalloc (http://goog-perftools.sourceforge.net/doc/tcmalloc.html).
 
 INSTALL, example:
 
