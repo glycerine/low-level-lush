@@ -1,0 +1,17 @@
+https://labs.omniti.com/portableumem/releases/1.0/umem-1.0.1.tar.bz2
+
+https://labs.omniti.com/portableumem/releases/1.0/umem-1.0.1.tar.bz2
+
+Portable umem ¶
+
+This is a port of the Solaris umem memory allocator to other popular operating systems, such as Linux, Windows and BSDish systems (including Darwin/OSX).
+Download ¶
+
+    * https://labs.omniti.com/portableumem/releases/1.0/umem-1.0.1.tar.bz2 
+
+Resources ¶
+
+    * Check out the source from https://labs.omniti.com/portableumem
+    * http://developers.sun.com/solaris/articles/libumem_library.html
+    * http://www.usenix.org/publications/library/proceedings/bos94/bonwick.html 
+
